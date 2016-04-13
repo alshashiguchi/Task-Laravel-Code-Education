@@ -6,6 +6,10 @@ Blog Laravel
 
 @stop
 
+@section('classHeader')
+class="intro-header" style="background-image: url('img/home-bg.jpg')"
+@stop
+
 @section('titlePageMain1')
 
 Laravel-Express

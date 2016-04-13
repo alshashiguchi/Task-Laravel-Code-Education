@@ -6,6 +6,10 @@ Blog Laravel - Posts
 
 @stop
 
+@section('classHeader')
+class="intro-header" style="background-image: url('img/post-bg.jpg')"
+@stop
+
 @section('titlePageMain1')
 
 Posts
